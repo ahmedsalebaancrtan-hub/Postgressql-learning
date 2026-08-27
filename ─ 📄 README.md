@@ -6,10 +6,10 @@ A practical PostgreSQL learning repository containing SQL lessons, examples, exe
 
 | Lesson                                        | Topic                           | Status |
 | --------------------------------------------- | ------------------------------- | ------ |
-| [Lesson 1](./lesson-01-introduction/)         | Introduction to PostgreSQL      | ⬜      |
-| [Lesson 2](./lesson-02-database-basics/)      | Database & Table Basics         | ✅      |
+| [Lesson 1](./lesson-01-introduction/)         | Introduction to PostgreSQL      | ⬜     |
+| [Lesson 2](./lesson-02-database-basics/)      | Database & Table Basics         | ✅     |
 | [Lesson 3](./lesson-03-crud-and-alter-table/) | CRUD, ALTER TABLE & Constraints | 🔄     |
-| [Lesson 4](./lesson-04-relationships/)        | Relationships & JOIN            | ⬜      |
+| [Lesson 4](./lesson-04-relationships/)        | Relationships & JOIN            | ⬜     |
 
 ---
 
@@ -52,56 +52,56 @@ This repository is designed to build practical PostgreSQL skills from the fundam
 
 ### Fundamentals
 
-* Database creation
-* Table creation
-* Data types
-* INSERT
-* SELECT
+- Database creation
+- Table creation
+- Data types
+- INSERT
+- SELECT
 
 ### CRUD
 
-* CREATE
-* READ
-* UPDATE
-* DELETE
+- CREATE
+- READ
+- UPDATE
+- DELETE
 
 ### Data Filtering
 
-* WHERE
-* AND / OR
-* ORDER BY
-* LIMIT
-* LIKE
-* ILIKE
+- WHERE
+- AND / OR
+- ORDER BY
+- LIMIT
+- LIKE
+- ILIKE
 
 ### Table Structure
 
-* ALTER TABLE
-* ADD COLUMN
-* RENAME COLUMN
-* ALTER COLUMN
-* DROP COLUMN
+- ALTER TABLE
+- ADD COLUMN
+- RENAME COLUMN
+- ALTER COLUMN
+- DROP COLUMN
 
 ### Constraints
 
-* PRIMARY KEY
-* FOREIGN KEY
-* NOT NULL
-* UNIQUE
-* CHECK
-* DEFAULT
+- PRIMARY KEY
+- FOREIGN KEY
+- NOT NULL
+- UNIQUE
+- CHECK
+- DEFAULT
 
 ### Relationships
 
-* Primary keys
-* Foreign keys
-* INNER JOIN
-* LEFT JOIN
-* RIGHT JOIN
-* FULL JOIN
-* One-to-One
-* One-to-Many
-* Many-to-Many
+- Primary keys
+- Foreign keys
+- INNER JOIN
+- LEFT JOIN
+- RIGHT JOIN
+- FULL JOIN
+- One-to-One
+- One-to-Many
+- Many-to-Many
 
 ---
 
@@ -115,12 +115,12 @@ Each lesson contains practical SQL examples and exercises to reinforce the conce
 
 ## 🛠️ Tools
 
-* PostgreSQL
-* psql
-* pgAdmin
-* Beekeeper Studio
-* Git
-* GitHub
+- PostgreSQL
+- psql
+- pgAdmin
+- Beekeeper Studio
+- Git
+- GitHub
 
 ---
 
