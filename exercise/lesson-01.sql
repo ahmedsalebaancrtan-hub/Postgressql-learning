@@ -1,0 +1,12 @@
+-- Lesson 1 Exercises
+-- Complete these tasks yourself.
+
+-- 1. Check your PostgreSQL version.
+-- 2. Connect to a database using psql.
+-- 3. List all databases.
+-- 4. List all tables.
+-- 5. Write a short comment explaining:
+--    What is a database?
+--    What is a table?
+--    What is a row?
+--    What is a column?
